@@ -6,8 +6,10 @@ type the required maths operation:
 / for division
 ''')
 
+
 n1 = int(input('Enter the first number: '))
 n2 = int(input('Enter the second number: '))
+
 
 if operation == '+':
     print ('{} + {} = '. format(n1, n2))
