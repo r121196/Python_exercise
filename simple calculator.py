@@ -1,3 +1,6 @@
+@@/ bin/python
+
+
 operation = input('''
 type the required maths operation:
 + for addition
