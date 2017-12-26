@@ -1,3 +1,3 @@
 # Python_exercise
 
-THis is done by RHEA M PRADEEP
+This is done by RHEA M PRADEEP
