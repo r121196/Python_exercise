@@ -1,3 +1,5 @@
+#!/ bin/ python
+
 operation = input('''
 type the required maths operation:
 + for addition
@@ -27,3 +29,6 @@ elif operation == '/':
 
 else :
     print (" The operation etered is invalid. Restart the programme.")
+
+return()    
+    
